@@ -21,5 +21,5 @@ However, the intimate nature of campus infrastructure allows it to serve as grea
 10. If there is no valid path from either starting point, a new "meeting destination" is chosen in order of the next closest building to the midpoint, and the process repeats until valid paths are found or there are no more buildings left to choose.
 
 ## Example
-<img width="1920" height="937" alt="image" src="https://github.com/user-attachments/assets/99c3412d-2121-4c9b-ae93-04b3fa657792" />
+<img width="1920" height="937" alt="example usage" src="https://github.com/user-attachments/assets/99c3412d-2121-4c9b-ae93-04b3fa657792" />
 
