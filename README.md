@@ -9,7 +9,7 @@ Theoretically, this application could be be used with any valid .osm file (as lo
 However, the intimate nature of campus infrastructure allows it to serve as great, lightweight input data to showcase the functionality of the application. An OpenStreetMap export of DePaul University's Lincoln Park campus has been provided within the repo (depaul.osm) for example usage/testing, but feel free to use the application with OpenStreetMap exports of other college campuses as well.
 
 ## Design and Usage
-1. The application can be built and ran using the makefile (*make build, make run*).
+1. The application can be built and run using the makefile (*make build, make run*).
 2. Upon running the application, the user can input a .osm filename to be read in as map data via the console interface.
 3. The OpenStreetMap XML data is parsed via the [TinyXML2](https://github.com/leethomason/tinyxml2) library and read into an adjacency list graph structure.
 4. Nodes are stored as vertices, footways (viable paths) are stored as edges.
