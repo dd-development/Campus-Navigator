@@ -1,6 +1,9 @@
 # Campus Navigator
 A C++ application for locating and pathing towards the optimal building for two students to meet at based on their starting locations on campus.
 
+## DEMO VIDEO
+https://www.youtube.com/watch?v=huNKfUjojK8
+
 ## Overview
 This project was designed primarily as a backend implementation that reads in data from any [OpenStreetMap](https://www.openstreetmap.org/#map=13/40.07827/-88.21906) .osm file export.
 
